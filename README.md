@@ -1,4 +1,4 @@
-# projet
+# projet matchstick
 
 Reproduction du jeu d'allumettes Matchstick.
 
